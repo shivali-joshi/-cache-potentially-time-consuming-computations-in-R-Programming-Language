@@ -2,7 +2,7 @@
 This second programming assignment in the course of R programming by John Hopkins University.
 
 
-###Assignment Description:
+### Assignment Description:
 Write an R function that is able to cache potentially time-consuming computations.
 
 For example, taking the mean of a numeric vector is typically a fast
